@@ -1,6 +1,7 @@
 /* Body of Page */
 body    {
     background: #cdcdcd;
+    background-image: url(../images/beanstalk/beanstalk.jpg);
     margin: 0px;
     padding: 0px;
     line-height: 20px;
@@ -72,7 +73,7 @@ footer  {
 }
 
 #portfolio  {
-    background: #e9e9e9;
+    background: #64c4db;
     border-radius: 5px;
      
 }
