@@ -1,3 +1,4 @@
+/* Body of Page */
 body    {
     background: #cdcdcd;
     margin: 0px;
@@ -13,6 +14,7 @@ section {
     margin: 10px;
     border-radius: 5px;
 }
+/* Headers */
 h1  {
     background: #88bbd6;
     padding: 20px;
@@ -31,28 +33,28 @@ h2  {
     border: 1px  solid #cdcdcd;
     border-radius: 5px;
 }
-ul  {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-    position: relative;
-    bottom: 0px;
-}
-li  {
-    display: inline-block;
-    margin-left: 20px;
-    float: right;
-    
-}
 
+/* Images */
 img {
     padding: 12px;
     float: left;
 }
+/* Paragraphs */
 #info {
     padding: 1px;
     color: white;
 }
+
+footer  {
+    background-image: linear-gradient(#99d3df, #cdcdcd, #88bbd6);
+    position: relative;
+    bottom: 0px;
+    height: 60px;
+    margin-left: 10px;
+    border-radius: 5px;
+    
+}
+/* Navigation Bar */
 #about {
     background: #88bbd6;
     border-radius: 5px;
@@ -69,12 +71,21 @@ img {
     border-radius: 5px;
      
 }
-footer  {
-    background-image: linear-gradient(#99d3df, #cdcdcd, #88bbd6);
+ul  {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
     position: relative;
     bottom: 0px;
-    height: 60px;
-    margin-left: 10px;
-    border-radius: 5px;
-    
+    text-align: center;
 }
+li  {
+    display: inline-block;
+    margin-left: 20px;
+    float: right;
+}
+a  {
+    text-decoration: none;
+
+}
+
