@@ -32,7 +32,7 @@ h1  {
 h2  {
     color: white;
     padding: 20px;
-    border: 1px  solid #cdcdcd;
+    border: 1px  solid white;
     border-radius: 5px;
 }
 
@@ -65,6 +65,7 @@ footer  {
     background: #88bbd6;
     border-radius: 5px;
     
+    
 }
 #contact {
     background: #99d3df;
@@ -82,11 +83,13 @@ ul  {
     margin: 0px;
     padding: 0px;
     text-align: center;
+    
 }
 li  {
     display: inline-block;
     margin-left: 20px;
     float: right;
+    
 }
 a  {
     text-decoration: none;
