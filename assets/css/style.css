@@ -28,7 +28,7 @@ h1  {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: white;
     margin-bottom: 0px;
-    margin-top: 0px;
+    margin-top: 10px;
     margin-left: 10px;
     border-radius: 5px;
 }
@@ -94,7 +94,7 @@ li  {
     display: inline-block;
     margin-left: 20px;
     float: right;
-    
+    margin-top: 20px;
 }
 a  {
     text-decoration: none;
