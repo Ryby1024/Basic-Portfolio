@@ -1,7 +1,7 @@
 /* Body of Page */
 body    {
     background: #cdcdcd;
-    background-image: url(../images/beanstalk/dark-honeycomb.png);
+    background-image: url(../images/beanstalk/beanstalk.jpg);
     margin: 0px;
     padding: 0px;
     line-height: 20px;
@@ -128,4 +128,5 @@ label   {
 button  {
     padding: 10px;
     margin: 10px;
+    border-radius: 10px;
 }
