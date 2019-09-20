@@ -34,7 +34,7 @@ h1  {
 }
 h2  {
     color: white;
-    padding: 20px;
+    padding: 10px;
     border: 1px  solid rgb(190, 187, 187);
     border-radius: 5px;  
 }
@@ -43,6 +43,8 @@ h2  {
 img {
     padding: 12px;
     float: left;
+    
+    
 }
 /* Paragraphs */
 #info {
@@ -101,6 +103,8 @@ a  {
 }
 
 /* Contact page*/
+
+
 form    {
     width: 96.5%;
     
@@ -131,3 +135,20 @@ button  {
     border-radius: 10px;
     background-color: #99d3df;
 }
+/*Portfolio page*/
+figcaption  {
+    float:  left;
+    width: 100%;
+    padding: 7px;
+    margin: 5px;
+    text-align: center;
+}
+figure  {
+    width: 40%;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    
+}  
