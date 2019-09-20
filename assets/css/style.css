@@ -35,8 +35,8 @@ h1  {
 h2  {
     color: white;
     padding: 20px;
-    border: 1px  solid white;
-    border-radius: 5px;
+    border: 1px  solid rgb(190, 187, 187);
+    border-radius: 5px;  
 }
 
 /* Images */
@@ -129,4 +129,5 @@ button  {
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+    background-color: #99d3df;
 }
